@@ -1,0 +1,60 @@
+{
+  "classes": [
+    {
+      "year": "II",
+      "semester": "I",
+      "classInchargeName": "Mrs.K.Manasa",
+      "section": "Group - 1",
+      "contactNo": "9059794747"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classInchargeName": "Dr. M. Santhosh Kumar",
+      "section": "Group - 2",
+      "contactNo": "9701723629"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classInchargeName": "Mr.D.Trinadha Rao",
+      "section": "Group - 3",
+      "contactNo": "9866743443"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classInchargeName": "Mr. D.Srikanth",
+      "section": "Group - 4",
+      "contactNo": "9505302498"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classInchargeName": "Mr. Vamshi Krishna",
+      "section": "Group - 5",
+      "contactNo": "9052842818"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classInchargeName": "Mrs. S Sagharika",
+      "section": "Group - 6",
+      "contactNo": "7989859459"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classInchargeName": "Dr. G. Jose Moses",
+      "section": "Group - 7",
+      "contactNo": "9701329977"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classInchargeName": "Dr.B.Jogeswara Rao",
+      "section": "Group - 8",
+      "contactNo": "9550009538"
+    }
+  ]
+}
